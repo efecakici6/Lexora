@@ -1,0 +1,15 @@
+LEXORA — Ücretsiz iPhone kelime çalışma uygulaması
+
+1. Yeni bir GitHub deposu oluştur (ör. lexora), Public seç.
+2. lexora klasörünün İÇİNDEKİ dosyaları deponun ANA DİZİNİNE yükle. ZIP dosyasını yükleme.
+3. Depoda Settings > Pages > Source: Deploy from a branch > main > /(root) > Save.
+4. GitHub Pages'in verdiği adresi Safari ile aç. Paylaş > Ana Ekrana Ekle.
+5. Kelime koleksiyonun 0'dan başlar. Türkçe anlamlarını kitaptaki gibi ekle.
+6. Her gece Tekrar > Bugün ya da Tümü > Kartları başlat. Karta dokunarak çevir.
+7. Ayarlar'dan düzenli JSON yedeği indir ve iPhone Dosyalar'a kaydet.
+
+ÖNEMLİ: Kayıtlar sadece o cihazın tarayıcı / ana ekran uygulaması depolamasındadır.
+Farklı cihaz veya farklı tarayıcıya otomatik aktarılmaz. Aynı iPhone'da Safari ve ana ekran
+uygulamasının verileri de farklı olabileceğinden kelimeleri asıl kullanacağın ana ekran
+uygulamasında ekle. Safari verileri temizlenirse ya da uygulama silinirse yedek olmayan
+veriler kaybolabilir. GitHub'a yalnızca uygulama kodunu yükle, kişisel JSON yedeğini yükleme.
